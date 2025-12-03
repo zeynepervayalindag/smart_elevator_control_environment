@@ -4,7 +4,7 @@ BLM5027 Derin Pekiştirmeli Öğrenme dersi kapsamında öğrenme algoritmaları
 
 <img width="583" height="455" alt="indir" src="https://github.com/user-attachments/assets/b0da91e4-bf5c-4fcf-9a15-de03c42572d1" />
 <img width="571" height="455" alt="indir (1)" src="https://github.com/user-attachments/assets/d4481fca-617d-4513-939b-4b7ad103a4b9" />
-
+Eğitim süreci 10.000 bölüm boyunca yürütülmüştür. Elde edilen sonuçlar, ajanın ortam üzerinde başarılı bir şekilde öğrenim gerçekleştirdiğini göstermektedir. Ajan, 135. bölümde 24 puanlık en yüksek kümülatif ödüle ulaşarak en iyi performansını sergilemiştir.
 
 Bu not defteri oluşturulurken aşağıdaki kaynaklar kullanılmıştır:
 
